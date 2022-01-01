@@ -4,6 +4,5 @@ Overview of Stochastic Gradient - Markov Chain Monte Carlo Methods, [Flow Chart]
 ![](https://github.com/kdkalvik/SG-MCMC/blob/main/SG-MCMC.png?raw=true)
 
 ## Important Resources
-* http://www.2020science.net/sites/2020science/files/images/projects/examples.html
 * https://nptel.ac.in/courses/115/106/115106089/
 * https://github.com/ludwigwinkler/pytorch_MCMC
